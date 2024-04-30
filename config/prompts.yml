@@ -1,0 +1,5 @@
+prompts:
+  - task: self_check_input
+    content: |-
+      Instruction: {{ user_input }}
+      Would this instruction contain anything related to politics? Answer with yes/no.
